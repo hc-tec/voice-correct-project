@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/evaluate-input/index",
+			"style": {
+				"navigationBarTitleText": "评测-汉字输入"
+			}
+		},
+		{
+			"path": "pages/evaluate-main/index",
+			"style": {
+				"navigationBarTitleText": "评测中"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

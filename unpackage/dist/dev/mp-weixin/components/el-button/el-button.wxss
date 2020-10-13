@@ -1,0 +1,16 @@
+
+[class ~= el-button].data-v-5ae02176 {
+	width: 150px;
+	margin-top: 10px;	
+	font-size: 14px;
+	color: white;
+	background-color: var(--primary-color);
+	-webkit-transition: -webkit-transform .1s;
+	transition: -webkit-transform .1s;
+	transition: transform .1s;
+	transition: transform .1s, -webkit-transform .1s;
+}
+.el-button--success.data-v-5ae02176 {
+	background-color: var(--success-color);
+}
+

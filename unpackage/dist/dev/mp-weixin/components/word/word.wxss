@@ -1,0 +1,11 @@
+
+.evaluate-word {
+	font-size: 20px;
+	padding: 3px;
+	-webkit-border-radius: 2px;
+	        border-radius: 2px;
+	color: var(--warning-color);
+	border: 1px solid var(--warning-color);
+	margin: 0 10px 5px 0;
+}
+
